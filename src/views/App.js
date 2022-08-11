@@ -1,4 +1,5 @@
 import "./App.scss";
+import MyComponent from "./Example/MyComponet";
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
           Learn React 1
         </a>
         <h1>hello wo1rlsadasd 123</h1>
+
+        <MyComponent />
       </header>
     </div>
   );
